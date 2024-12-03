@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Explorer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="explorer">
+        <div class="folder" onclick="toggleFolder(event, this)">
+            Films
+            <div class="folder-content">
+                <div class="file">Iron Man.avi</div>
+                <div class="folder" onclick="toggleFolder(event, this)">
+                    Fantasy
+                    <div class="folder-content">
+                        <div class="file">The Lord of the Rings.avi</div>
+                    </div>
+                </div>
+                <div class="folder" onclick="toggleFolder(event, this)">
+                    New Folder 1
+                    <div class="folder-content">
+                        <div class="empty-folder">Folder is empty</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="folder" onclick="toggleFolder(event, this)">
+            Documents
+            <div class="folder-content">
+                <div class="empty-folder">Folder is empty</div>
+            </div>
+        </div>
+    </div>
+
+    <script src="my.js"></script>
+</body>
+</html>

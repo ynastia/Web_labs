@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.explorer {
+    width: 300px;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.folder, .file {
+    margin: 5px 0;
+    cursor: pointer;
+}
+
+.folder {
+    font-weight: bold;
+}
+
+.folder-content {
+    margin-left: 20px;
+    display: none;
+}
+
+.folder.open > .folder-content {
+    display: block;
+}
+
+.folder::before {
+    content: "📂 ";
+    transition: content 0.2s;
+}
+
+.folder.open::before {
+    content: "📁 ";
+}
+
+.file::before {
+    content: "📄 ";
+}
+
+.empty-folder {
+    font-style: italic;
+    color: gray;
+}
