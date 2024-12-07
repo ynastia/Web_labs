@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tag Filter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Tags</h1>
+        <div class="tags-container">
+            <button class="tag-btn" data-tag="middle">Middle</button>
+            <button class="tag-btn" data-tag="junior">Junior</button>
+            <button class="tag-btn" data-tag="senior">Senior</button>
+            <button class="tag-btn" data-tag="front">Front</button>
+            <button class="tag-btn" data-tag="back">Back</button>
+        </div>
+        <button id="filter-btn">Filter</button>
+        <h2>Vacancies</h2>
+        <div class="vacancies">
+            <div class="vacancy" data-tags="middle,junior">
+                <p>Vacancy 1</p>
+                <div class="tags">
+                    <span>middle</span>
+                    <span>junior</span>
+                </div>
+            </div>
+            <div class="vacancy" data-tags="middle">
+                <p>Vacancy 2</p>
+                <div class="tags">
+                    <span>middle</span>
+                </div>
+            </div>
+            <div class="vacancy" data-tags="back,junior,front,senior,middle">
+                <p>Vacancy 3</p>
+                <div class="tags">
+                    <span>back</span>
+                    <span>junior</span>
+                    <span>front</span>
+                    <span>senior</span>
+                    <span>middle</span>
+                </div>
+            </div>
+            <div class="vacancy" data-tags="junior,back,middle,front">
+                <p>Vacancy 4</p>
+                <div class="tags">
+                    <span>junior</span>
+                    <span>back</span>
+                    <span>middle</span>
+                    <span>front</span>
+                </div>
+            </div>
+            <div class="vacancy" data-tags="middle,front,back,senior,junior">
+                <p>Vacancy 5</p>
+                <div class="tags">
+                    <span>middle</span>
+                    <span>front</span>
+                    <span>back</span>
+                    <span>senior</span>
+                    <span>junior</span>
+                </div>
+            </div>
+            <div class="vacancy" data-tags="middle,junior,senior">
+                <p>Vacancy 6</p>
+                <div class="tags">
+                    <span>middle</span>
+                    <span>junior</span>
+                    <span>senior</span>
+                </div>
+            </div>
+            <div class="vacancy" data-tags="middle,front,back">
+                <p>Vacancy 7</p>
+                <div class="tags">
+                    <span>middle</span>
+                    <span>front</span>
+                    <span>back</span>
+                </div>
+            </div>
+            <div class="vacancy" data-tags="back,junior">
+                <p>Vacancy 8</p>
+                <div class="tags">
+                    <span>back</span>
+                    <span>junior</span>
+                </div>
+            </div>
+            <div class="vacancy" data-tags="junior,back,front">
+                <p>Vacancy 9</p>
+                <div class="tags">
+                    <span>junior</span>
+                    <span>back</span>
+                    <span>front</span>
+                </div>
+            </div>
+            <div class="vacancy" data-tags="middle,front,back">
+                <p>Vacancy 10</p>
+                <div class="tags">
+                    <span>middle</span>
+                    <span>front</span>
+                    <span>back</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+і
