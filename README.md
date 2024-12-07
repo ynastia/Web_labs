@@ -10,5 +10,6 @@ https://github.com/ynastia/Web_labs/tree/main/lab_06 - calculator
 https://github.com/ynastia/Web_labs/tree/main/lab_07 - guess number
 https://github.com/ynastia/Web_labs/tree/main/lab_08 - file manager
 https://github.com/ynastia/Web_labs/tree/main/lab_09 - cards
-- tanks/dogs
+https://github.com/ynastia/Web_labs/tree/main/lab_10 - tanks/dogs
 https://github.com/ynastia/Web_labs/tree/main/lab_11 - jobs filters
+
