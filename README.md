@@ -12,4 +12,5 @@ https://github.com/ynastia/Web_labs/tree/main/lab_08 - file manager
 https://github.com/ynastia/Web_labs/tree/main/lab_09 - cards
 https://github.com/ynastia/Web_labs/tree/main/lab_10 - tanks/dogs
 https://github.com/ynastia/Web_labs/tree/main/lab_11 - jobs filters
+https://github.com/ynastia/Web_labs/tree/main/lab_12 - pokemon
 
