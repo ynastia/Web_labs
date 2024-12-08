@@ -1,5 +1,5 @@
 # Web_labs
-https://github.com/ynastia/Web_labs/tree/main/lab_01/food_page - food
+file:///C:/Users/Admin/Desktop/web2/lab_01/food_page/food-page.html - food
 https://github.com/ynastia/Web_labs/tree/main/lab_01/future_cars - cars
 https://github.com/ynastia/Web_labs/tree/main/lab_01/japanese_kitchen - kitchen
 https://github.com/ynastia/Web_labs/tree/main/lab_02 - black & white / apples	
