@@ -1,7 +1,7 @@
 # Web_labs
-https://ynastia.github.io/Web_labs/lab_01/cars/<br /> - cars
-https://ynastia.github.io/Web_labs/lab_01/food/<br /> - food
-https://ynastia.github.io/Web_labs/lab_01/kitchen/<br /> - kitchen
+https://ynastia.github.io/Web_labs/lab_01/cars/<br/> - cars
+https://ynastia.github.io/Web_labs/lab_01/food/<br/> - food
+https://ynastia.github.io/Web_labs/lab_01/kitchen/<br/> - kitchen
 
 
 https://ynastia.github.io/Web_labs/lab_02 - black & white / apples	
