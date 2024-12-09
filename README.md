@@ -10,3 +10,4 @@ https://ynastia.github.io/Web_labs/lab_09 - cards
 https://ynastia.github.io/Web_labs/lab_10 - tanks
 https://ynastia.github.io/Web_labs/lab_11 - jobs filter
 https://ynastia.github.io/Web_labs/lab_12 - pokemon
+ https://ynastia.github.io/Web_labs/lab_13 - dummyjson
